@@ -1,11 +1,11 @@
 # Site settings
 author: Brian Boehm
-title: 
+title: Second Best Time to Plant a Tree
 header-img: img/home-bg.png
 email: bri.boehm@gmail.com
 copyright_name: Brian Boehm
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I Decided to Learn Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bebofofum
